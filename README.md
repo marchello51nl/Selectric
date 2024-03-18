@@ -1,4 +1,4 @@
-Thist is a project of ANLWLSN to convert an IBM Selectric to a Teletype i mage .stl files from the original FreeCad files
+This is a project of ANLWLSN to convert an IBM Selectric to a Teletype i mage .stl files from the original FreeCad files
 
 his video about the project can be found here
 
